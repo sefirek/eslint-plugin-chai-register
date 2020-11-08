@@ -1,0 +1,26 @@
+{
+  "name": "eslint-plugin-chai-register",
+  "version": "1.0.0",
+  "description": "plugin ładuje mocha, chai, chai-as-promised do globala, wsparcie działania browserify",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://_sefir@bitbucket.org/_sefir/eslint-plugin-chai-register.git"
+  },
+  "scripts": {
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "chai-as-promised",
+    "register"
+  ],
+  "author": "Rafał Kogut sefir@o2.pl",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/_sefir/eslint-plugin-chai-register#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "https://github.com/sefirek/mocha.git"
+  }
+}
